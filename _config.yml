@@ -9,7 +9,7 @@
 title: O-Aid
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  O-Aid aims to set software free.
+  O-Aid strives to make more sources open.
   
   
 baseurl: "/cards" # the subpath of your site, e.g. /blog
@@ -20,11 +20,11 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: webjeda
+built-by: O-Aid
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: O-Aid
+   link: 'www.ourwebsiteblablabl.com'
 
 # Build settings
 markdown: kramdown
@@ -40,17 +40,17 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+facebook: http://facebook.com/vårfacebooksida
+quora: http://quora.com/vårquorasida
+twitter: http://twitter.com/@vårtwitteruser
+github: http://github.com/vårgitlab
+email: hello@vårmejladress
 
 #facebook like box
 fb-like-box: yes
 fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-page-url: https://www.facebook.com/vårfacebooksida
+fb-page-title: O-Aid
 
 # Sass style
 sass:
@@ -58,4 +58,3 @@ sass:
 
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
-
