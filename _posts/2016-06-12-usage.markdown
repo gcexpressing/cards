@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usage Guide"
+title:  "What is open source?"
 categories: jekyll update
 img: image-2.png
 categories: two
