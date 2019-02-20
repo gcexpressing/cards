@@ -11,4 +11,4 @@ Then, what is open source software? Open source software is software with source
 
 "Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software—a "program" or "application"—works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.
 
-<cite title="Source: opensource.com">Source: opensource.com</cite></small>
+<cite title="Source: opensource.com">Source: opensource.com</cite>
