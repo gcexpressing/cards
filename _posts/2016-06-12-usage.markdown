@@ -5,20 +5,13 @@ categories: jekyll update
 img: image-2.png
 categories: two
 ---
+The term "open source" refers to something people can modify and share because its design is publicly accessible. The term originated in the context of software development to designate a specific approach to creating computer programs. Today, however, "open source" designates a broader set of values—what we call "the open source way." Open source projects, products, or initiatives embrace and celebrate principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development.
 
-Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
+Then, what is open source software? Open source software is software with source code that anyone can inspect, modify, and enhance.
 
-## Image
+"Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software—a "program" or "application"—works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.
 
-- Use image of ratio 400x250 (800x500). 
-- Keep them inside ``images`` folder.
-- Mention image name in the front matter as shown below
+<cite title="Source: opensource.com">Source Title</cite></small>
 
-{% highlight yml %}
----
-layout: post
-title:  "Some title"
-categories: some category
-img: image-name.jpg
 ---
 {% endhighlight %}
