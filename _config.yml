@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: O-Aid
+title: OpenAir
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   O-Aid strives to make more sources open.
@@ -20,10 +20,10 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: O-Aid
+built-by: OpenAir
 
 copyright:
-   name: O-Aid
+   name: OpenAir
    link: 'www.ourwebsiteblablabl.com'
 
 # Build settings
@@ -50,7 +50,7 @@ email: hello@vårmejladress
 fb-like-box: yes
 fb-app-id: 549480635219583
 fb-page-url: https://www.facebook.com/vårfacebooksida
-fb-page-title: O-Aid
+fb-page-title: OpenAir
 
 # Sass style
 sass:
